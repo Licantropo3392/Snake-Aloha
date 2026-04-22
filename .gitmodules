@@ -1,0 +1,3 @@
+[submodule "lib/Aloha"]
+	path = lib/Aloha
+	url = https://github.com/Licantropo3392/Aloha.git
